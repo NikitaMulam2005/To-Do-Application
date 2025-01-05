@@ -1,0 +1,49 @@
+{
+  "task": [
+    {
+      "id": "2",
+      "selected": true,
+      "task": "Studying from 9 to 5",
+      "folder": "Work",
+      "date": "Oct 17, 2024",
+      "start": "17:00",
+      "end": "22:30"
+    },
+    {
+      "id": "3",
+      "selected": true,
+      "task": "Watch a Show at 6'O clock",
+      "folder": "Personal",
+      "date": "Jan 22, 2024",
+      "start": "17:00",
+      "end": "22:30"
+    },
+    {
+      "id": "4",
+      "selected": false,
+      "task": "Pay for Insurance",
+      "folder": "Work",
+      "date": "Nov 7, 2025",
+      "start": "17:00",
+      "end": "22:30"
+    },
+    {
+      "id": "1",
+      "selected": false,
+      "task": "Calling",
+      "folder": "Personal",
+      "date": "May 11, 2025",
+      "start": "17:00",
+      "end": "22:30"
+    },
+    {
+      "id": "Cc8UaqUk2Jos5YDdP-9NV",
+      "selected": false,
+      "task": "Buying Groceries : Egg, Milk",
+      "folder": "Shopping List",
+      "date": "Nov 28, 2024",
+      "start": "10:00",
+      "end": "10:30"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.main{
+display: flex;
+gap:1rem;
+justify-content: space-evenly;
+margin-left:2rem;
+
+}
